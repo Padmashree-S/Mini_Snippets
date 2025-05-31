@@ -11,6 +11,7 @@ Feel free to browse, use, or contribute! Every snippet tells a story of curiosit
 Happy coding! 🚀
 
 **Installation**
+
 No complex setup required! You can simply clone this repository to your local machine:
 
 git clone https://github.com/yourusername/Mini_Snippets.git
@@ -18,6 +19,7 @@ git clone https://github.com/yourusername/Mini_Snippets.git
 Navigate into the directory and explore the code snippets or projects as you like.
 
 **Usage**
+
 Each folder or file contains individual snippets or mini projects. You can:
 
 Run scripts directly if they are standalone.
@@ -29,6 +31,7 @@ Modify or build upon the snippets to fit your learning or projects.
 Check each snippet’s comments for more specific instructions where applicable.
 
 **Contributing**
+
 Contributions are welcome! If you want to add your own mini snippet or improve an existing one:
 
 * Fork this repository.
